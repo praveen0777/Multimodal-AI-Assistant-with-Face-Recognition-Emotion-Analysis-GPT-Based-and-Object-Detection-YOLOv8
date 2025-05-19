@@ -1,0 +1,16 @@
+opencv-python
+face-recognition
+speechrecognition
+pyttsx3
+openai
+numpy
+Pillow
+torch
+ultralytics
+keyboard
+requests
+python-dotenv
+serpapi
+matplotlib
+tensorflow
+scikit-learn

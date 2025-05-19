@@ -1,0 +1,35 @@
+Instructions to make MAYA work, download the required pip , and also make sure everything mentioned over here is installed in terminal cmd
+
+pip install -r requirements.txt
+First put this command in the terminal, make sure you are in maya_ai_assistant folder in the terminal
+opencv-python
+face-recognition
+speechrecognition
+pyttsx3
+openai
+numpy
+Pillow
+torch
+ultralytics
+keyboard
+requests
+python-dotenv
+serpapi
+matplotlib
+tensorflow
+scikit-learn
+
+https://cmake.org/download/    - install cmake
+
+install visual builder tools
+https://visualstudio.microsoft.com/visual-cpp-build-tools/ install builder tools
+ Check the box for “Desktop development with C++”
+ Make sure “Windows 10 SDK” and MSVC v142/v143 build tools are selected
+restart computer after installing
+
+to make MAYA recognize face ,upload the selfie in known faces folder
+
+pip install dilb
+pip install pyjokes
+pip install schedule
+pip install google-search-results
